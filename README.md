@@ -1,22 +1,24 @@
-# Conditional Statements in Python: Even or Odd Checker
+
+# Ex 1:Datatypes-Boolean Expression Evaluation in Python
 
 ## 🎯 Aim
-To write a Python program to check whether the given number is **even** or **odd** using `if...else` statements.
+To write a Python program that evaluates and prints the results of boolean and arithmetic expressions involving `True` and `False`.
 
 ## 🧠 Algorithm
-1. Get an input from the user.
-2. Convert the input to an integer and store it in a variable `a`.
-3. Use the modulo operator `%` to check if `a % 2 == 0`.
-   - If true, print `"EVEN"`.
-   - Else, print `"ODD"`.
-4. End the program.
+1. Set variable `a` to the result of the expression `0 == True`.
+2. Set variable `b` to the result of the expression `False == False`.
+3. Set variable `c` to the result of the expression `True + True`.
+4. Set variable `d` to the result of the expression `False + 9`.
+5. Print the value of `a` with the label "a is".
+6. Print the value of `b` with the label "b is".
+7. Print the value of `c` with the label "c:".
+8. Print the value of `d` with the label "d:".
 
-## 🧾 Program
-<img width="419" height="241" alt="image" src="https://github.com/user-attachments/assets/aa0ee663-16ef-47f9-9988-a662d11946c8" />
+## 💻 Program
+<img width="271" height="244" alt="image" src="https://github.com/user-attachments/assets/4f775e08-b91a-49c5-90f1-0d442e678033" />
 
 ## Output
-<img width="266" height="82" alt="image" src="https://github.com/user-attachments/assets/2f468d86-1960-4d5d-b25d-16347003734a" />
-
+<img width="137" height="121" alt="image" src="https://github.com/user-attachments/assets/4db11344-43f1-4080-a996-9bbc3e17709e" />
 
 ## Result
-<img width="368" height="67" alt="image" src="https://github.com/user-attachments/assets/2122916a-43a8-4404-b723-9145eaaabf87" />
+<img width="364" height="63" alt="image" src="https://github.com/user-attachments/assets/62c5d6a9-7916-4daf-a5e8-e23403a33ef5" />
